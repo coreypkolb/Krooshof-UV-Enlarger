@@ -9,4 +9,4 @@ If you are an analouge photographer who is interested in alternative photographi
 ### How much will it cost?
 This depends on a number of factors like what tools or materials you have already. The price can be as low as $300 USD.
 ## Basic design
-![Illustration of the Krooshnof UV Enlarger](https://github.com/coreypkolb/Krooshnof-UV-Enlarger/blob/main/uv-enlarger-verticle-simple.svg?raw=true)
+![Illustration of the Krooshnof UV Enlarger](https://github.com/coreypkolb/Krooshnof-UV-Enlarger/blob/main/images/uv-enlarger-verticle-simple.svg?raw=true)
