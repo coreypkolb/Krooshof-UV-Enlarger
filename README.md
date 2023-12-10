@@ -7,5 +7,6 @@ The Krooshnof UV Enlarger is an open source enlarger design that will enable you
 ### Who is this for?
 If you are an analouge photographer who is interested in alternative photographic processes and would rather not make a digital print but rather utilize the negatives you shoot, then this project is for you. You must be comfortable with DIY. Maybe you know your way around a soldering iron or you are willing to learn.
 ### How much will it cost?
-This depends on a number of factors like what tools or materials you have already. The price can be as low as $300 USD. 
+This depends on a number of factors like what tools or materials you have already. The price can be as low as $300 USD.
 ## Basic design
+![Illustration of the Krooshnof UV Enlarger](https://github.com/coreypkolb/Krooshnof-UV-Enlarger/blob/main/uv-enlarger-verticle-simple.svg?raw=true)
