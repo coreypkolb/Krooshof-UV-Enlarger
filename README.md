@@ -14,11 +14,12 @@ The Krooshnof UV Enlarger is a point source enlarger. UV light, ideally 385nm, s
 ### Design principles
 Guidelines behind all components optomize for lowest transmision losses. Thinnest and trasmisive materials.
 Highest possible geometric effeciency- get into the spreadsheet.
-### UV LED
+### Components in the light path
+#### UV LED
 LED requirements...
-### Collimating and condensing fresnel lenses
+#### Collimating and condensing fresnel lenses
 Lens requirements...
-### Enlarging Lens
+#### Enlarging Lens
 Lens requirements...
 ## Tools needed
 
