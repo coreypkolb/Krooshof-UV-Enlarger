@@ -1,4 +1,4 @@
-# Krooshnof-UV-Enlarger
+# Krooshof-UV-Enlarger
 Open source UV enlarger for alternative photographic processes
 ## Warning
 UV light is dangerous and could lead to permanent eye damage. Wear appropriate eye protection when using this enlarger. Parts of this process will involve potential risk of electrick shock. Exercise caution and know your limits.
