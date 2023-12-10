@@ -11,6 +11,9 @@ This depends on a number of factors like what tools or materials you have alread
 ## Basic design and components
 ![Illustration of the Krooshnof UV Enlarger](https://github.com/coreypkolb/Krooshnof-UV-Enlarger/blob/main/images/uv-enlarger-verticle-simple.svg?raw=true)
 The Krooshnof UV Enlarger is a point source enlarger. UV light, ideally 385nm, starts at the UV LED. The light travels through a collimating fresnel lens, a condensing fresnel lens, the negative, and finally the printing surface.
+### Design principles
+Guidelines behind all components optomize for lowest transmision losses. Thinnest and trasmisive materials.
+Highest possible geometric effeciency- get into the spreadsheet.
 ### UV LED
 LED requirements...
 ### Collimating and condensing fresnel lenses
@@ -18,4 +21,5 @@ Lens requirements...
 ### Enlarging Lens
 Lens requirements...
 ## Tools needed
+
 ##
